@@ -1,0 +1,6 @@
+Species	SUBGENE	E3GENE	SOURCE	SOURCEID	SENTENCE
+H.sapiens	TSC2	FBXW5	MEDLINE	18381890	Overexpression of <span class="match term0">FBW5</span> or CUL4A promotes <span class="match term1">TSC2</span> protein degradation, and this is abrogated by the coexpression of TSC1
+H.sapiens	EPS8	FBXW5	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	DLEC1	FBXW5	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	DLC1	FBXW5	MEDLINE	PMC4306233	PMC4306233
+H.sapiens	SASS6	FBXW5	MEDLINE	21725316	The SCF-<span class="match term0">FBXW5</span> E3-ubiquitin ligase is regulated by PLK4 and targets HsSAS-6 to control centrosome duplication.

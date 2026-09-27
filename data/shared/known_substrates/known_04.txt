@@ -1,0 +1,4 @@
+Species	SUBGENE	E3GENE	SOURCE	SOURCEID	SENTENCE
+H.sapiens	EID1	FBXO21	MEDLINE	26085330	<span class="match term0">FBXO21</span> mediates the ubiquitylation and proteasomal degradation of <span class="match term1">EID1</span>.
+H.sapiens	NR2F2	FBXO21	MEDLINE	33531987	And the <span class="match term1">Nr2f2</span> protein abundance was regulated by <span class="match term0">Fbxo21</span> via ubiquitination and proteasomal degradation
+H.sapiens	ABCB1	FBXO21	MEDLINE	26299618	Here we demonstrate that a ubiquitin E3-ligase, <span class="match term0">FBXO21</span>, targets the multidrug resistance transporter, <span class="match term1">ABCB1</span>, also known as P-glycoprotein (P-gp), for proteasomal degradation

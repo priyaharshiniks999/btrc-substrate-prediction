@@ -1,0 +1,5 @@
+Species	SUBGENE	E3GENE	SOURCE	SOURCEID	SENTENCE
+H.sapiens	SNAI1	FBXL7	MEDLINE	34249081	Mechanistically, <span class="match term0">FBXL7</span> bound to <span class="match term1">Snail1</span> and promoted its ubiquitination and proteasomal degradation
+H.sapiens	SRC	FBXL7	MEDLINE	32839549	<span class="match term0">FBXL7</span> mediates the ubiquitylation and proteasomal degradation of active c-<span class="match term1">SRC</span> after its phosphorylation at Ser 104.
+H.sapiens	AURKA	FBXL7	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	BIRC5	FBXL7	MEDLINE	25778398	UbiNet 2.0

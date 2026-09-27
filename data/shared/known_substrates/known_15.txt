@@ -1,0 +1,4 @@
+Species	SUBGENE	E3GENE	SOURCE	SOURCEID	SENTENCE
+H.sapiens	TTI1	FBXO9	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	NEUROG2	FBXO9	MEDLINE	32029586	Consistently, overexpression of <span class="match term0">Fbxo9</span> in NC progenitors down-regulated <span class="match term1">Neurog2</span> protein expression through ubiquitination and promoted the glial lineage at the expense of neuronal differentiation, whereas <span class="match term0">Fbxo9</span> knockdown resulted in the opposite phenomenon
+H.sapiens	TELO2	FBXO9	MEDLINE	24658274	UbiNet 2.0

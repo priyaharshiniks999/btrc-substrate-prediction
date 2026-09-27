@@ -1,0 +1,4 @@
+Species	SUBGENE	E3GENE	SOURCE	SOURCEID	SENTENCE
+H.sapiens	BRIP1	FBXL17	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	SUFU	FBXL17	MEDLINE	27234298	SCF (<span class="match term0">Fbxl17</span>) ubiquitylation of <span class="match term1">Sufu</span> regulates Hedgehog signaling and medulloblastoma development.
+H.sapiens	BACH1	FBXL17	MEDLINE	PMC4306233	PMC4306233

@@ -1,0 +1,6 @@
+Species	SUBGENE	E3GENE	SOURCE	SOURCEID	SENTENCE
+H.sapiens	TERF1	FBXO4	MEDLINE	20181953	UbiNet 2.0
+H.sapiens	CCND1	FBXO4	MEDLINE	19767775	Lysine 269 is essential for cyclin D1 ubiquitylation by the SCF(<span class="match term0">Fbx4</span>/alphaB-crystallin) ligase and subsequent proteasome-dependent degradation
+H.sapiens	ICAM1	FBXO4	MEDLINE	29137327	UbiNet 2.0
+H.sapiens	MCL1	FBXO4	MEDLINE	28776569	Mechanically, <span class="match term0">FBXO4</span> is the E3 ubiquitin ligase to interact with and promote <span class="match term1">Mcl-1</span> ubiquitination and degradation
+H.sapiens	FXR1	FBXO4	MEDLINE	29142209	UbiNet 2.0

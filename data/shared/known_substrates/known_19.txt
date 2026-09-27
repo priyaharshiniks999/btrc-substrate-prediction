@@ -1,0 +1,5 @@
+Species	SUBGENE	E3GENE	SOURCE	SOURCEID	SENTENCE
+H.sapiens	FBXL12	FBXO3	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	HIPK2	FBXO3	MEDLINE	18809579	<span class="match term0">Fbx3</span> formed SCF(<span class="match term0">Fbx3</span>) ubiquitin ligase and promoted the degradation of <span class="match term1">HIPK2</span> and p300 by the ubiquitin-proteasome pathway
+H.sapiens	EP300	FBXO3	MEDLINE	18809579	<span class="match term0">Fbx3</span> formed SCF(<span class="match term0">Fbx3</span>) ubiquitin ligase and promoted the degradation of HIPK2 and <span class="match term1">p300</span> by the ubiquitin-proteasome pathway
+H.sapiens	SMURF1	FBXO3	MEDLINE	25721664	F-box protein <span class="match term0">Fbxo3</span> targets <span class="match term1">Smurf1</span> ubiquitin ligase for ubiquitination and degradation

@@ -1,0 +1,6 @@
+Species	SUBGENE	E3GENE	SOURCE	SOURCEID	SENTENCE
+H.sapiens	BIRC2	FBXO7	MEDLINE	16510124	Furthermore, we showed that overexpression of <span class="match term0">Fbxo7</span> promotes the ubiquitination of <span class="match term1">cIAP1</span>
+H.sapiens	CRBN	FBXO7	MEDLINE	30026574	UbiNet 2.0
+H.sapiens	SPN	FBXO7	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	DLGAP5	FBXO7	MEDLINE	18495667	SCF(<span class="match term0">Fbxo7</span>) is known to catalyze the ubiquitination of hepatoma-up-regulated protein (<span class="match term1">HURP</span>) and the inhibitor of apoptosis (IAP) protein but also functions as an activator of cyclin D-Cdk6 complexes
+H.sapiens	TRAF2	FBXO7	MEDLINE	33010352	<span class="match term0">Fbxo7</span> negatively regulates NF-kappaB signaling through <span class="match term1">TRAF2</span> and cIAP1 ubiquitination

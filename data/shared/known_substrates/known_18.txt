@@ -1,0 +1,30 @@
+Species	SUBGENE	E3GENE	SOURCE	SOURCEID	SENTENCE
+H.sapiens	BTRC	FBXW11	MEDLINE	31406304	UbiNet 2.0
+H.sapiens	RCAN1	FBXW11	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	CEP68	FBXW11	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	CHUK	FBXW11	MEDLINE	10321728	UbiNet 2.0
+H.sapiens	CDC25B	FBXW11	MEDLINE	21807946	UbiNet 2.0
+H.sapiens	FANCM	FBXW11	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	PER2	FBXW11	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	IFNAR1	FBXW11	UniProt	FBW1B_HUMAN	SCF(<span class="match term0">FBXW11</span>) mediates the ubiquitination of <span class="match term1">IFNAR1</span>
+H.sapiens	NFKBIA	FBXW11	MEDLINE	14707120	Increasing cellular levels of <span class="match term0">HOS</span> substrate (phosphorylated <span class="match term1">IkappaBalpha</span>) by activating IkappaB kinase inhibited <span class="match term0">HOS</span> ubiquitination and led to stabilization of <span class="match term0">HOS</span>, indicating that interaction between <span class="match term0">HOS</span> and its substrate might protect <span class="match term0">HOS</span> from proteolysis
+H.sapiens	PDCD4	FBXW11	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	DLG1	FBXW11	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	DEPTOR	FBXW11	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	YAP1	FBXW11	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	PER1	FBXW11	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	WEE1	FBXW11	MEDLINE	15070733	In the present study, we have identified the beta-transducin repeat-containing protein 1/2 (beta-TrCP1/2) F-box protein-containing SKP1/Cul1/F-box protein (SCF) complex (SCF(beta-TrCP1/2)) as an E3 ubiquitin ligase for <span class="match term1">Wee1A</span> ubiquitination
+H.sapiens	PLK4	FBXW11	MEDLINE	19084407	Here we show that centrosome amplification is normally inhibited by degradation of <span class="match term1">SAK</span>/PK4 degradation, mediated by the SCF/Slimb ubiquitin ligase
+H.sapiens	IKBKB	FBXW11	MEDLINE	10321728	UbiNet 2.0
+H.sapiens	PRLR	FBXW11	MEDLINE	15082796	UbiNet 2.0
+H.sapiens	CTNNB1	FBXW11	UniProt	10321728	SCF(<span class="match term0">FBXW11</span>) mediates the ubiquitination of <span class="match term1">CTNNB1</span> and participates in Wnt signaling
+H.sapiens	TBC1D4	FBXW11	MEDLINE	25515538	UbiNet 2.0
+H.sapiens	NFKB1	FBXW11	UniProt	FBW1B_HUMAN	SCF(<span class="match term0">FBXW11</span>) mediates the ubiquitination of NFKBIA, the degradation frees the associated <span class="match term1">NFKB1</span> to translocate into the nucleus and to activate transcription
+H.sapiens	CLSPN	FBXW11	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	FBXO5	FBXW11	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	SIPA1L2	FBXW11	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	REST	FBXW11	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	DDIT4	FBXW11	MEDLINE	31406304	UbiNet 2.0
+H.sapiens	BHLHE40	FBXW11	MEDLINE	25202122	UbiNet 2.0
+H.sapiens	FBXW11	FBXW11	UniProt	FBW1B_HUMAN	Association with the F-box proteins BTRC and <span class="match term0">FBXW11</span> targets the protein for ubiquitination by CUL1 and proteolysis by the ubiquitin-dependent proteasome pathway (By similarity)
+H.sapiens	CDC25A	FBXW11	MEDLINE	14681206	UbiNet 2.0

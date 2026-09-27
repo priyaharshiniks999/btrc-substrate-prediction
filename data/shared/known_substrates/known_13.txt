@@ -1,0 +1,8 @@
+Species	SUBGENE	E3GENE	SOURCE	SOURCEID	SENTENCE
+H.sapiens	IRF3	FBXO6	MEDLINE	31308089	Structure and function delineation has further revealed that <span class="match term0">FBXO6</span> interacts with IAD domain of <span class="match term1">IRF3</span> through its FBA region to induce ubiquitination and degradation of <span class="match term1">IRF3</span> without the involvement of SCF
+H.sapiens	RNASET2	FBXO6	MEDLINE	33767133	We found that the interaction between <span class="match term0">FBXO6</span> and <span class="match term1">RNASET2</span> induced <span class="match term1">RNASET2</span> instability through the ubiquitin-mediated proteasome degradation pathway
+H.sapiens	CHEK1	FBXO6	MEDLINE	19716789	Further, we show that low levels of <span class="match term0">Fbx6</span> and consequent impairment of replication stress-induced <span class="match term1">Chk1</span> degradation are associated with cancer cell resistance to the chemotherapeutic agent, camptothecin
+H.sapiens	RIOK1	FBXO6	MEDLINE	29384474	<span class="match term0">FBXO6</span> specifically interacts with K411-methylated <span class="match term1">RIOK1</span> through its FBA domain to induce <span class="match term1">RIOK1</span> ubiquitination
+H.sapiens	ERO1A	FBXO6	MEDLINE	27855403	RESULTS: <span class="match term1">Ero1L</span> is a ubiquitination substrate of <span class="match term0">FBXO6</span>
+H.sapiens	TFRC	FBXO6	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	ATRN	FBXO6	MEDLINE	24658274	UbiNet 2.0

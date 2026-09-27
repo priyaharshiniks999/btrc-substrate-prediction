@@ -1,0 +1,10 @@
+Species	SUBGENE	E3GENE	SOURCE	SOURCEID	SENTENCE
+H.sapiens	PCYT1A	FBXL2	MEDLINE	22199232	E3Net
+H.sapiens	AURKB	FBXL2	MEDLINE	23370391	UbiNet 2.0
+H.sapiens	NLRP3	FBXL2	MEDLINE	26037928	<span class="match term0">FBXL2</span> recognizes Trp-73 within <span class="match term1">NALP3</span> for interaction and targets Lys-689 within <span class="match term1">NALP3</span> for ubiquitin ligation and degradation
+H.sapiens	CCND3	FBXL2	MEDLINE	22024926	UbiNet 2.0
+H.sapiens	ITPR3	FBXL2	MEDLINE	30355490	<span class="match term0">FBXL2</span> targets <span class="match term1">IP3R3</span> for ubiquitin-mediated degradation to limit Ca2+ flux to mitochondria and, consequently, apoptosis
+H.sapiens	APP	FBXL2	MEDLINE	22399757	<span class="match term0">FBL2</span> regulates amyloid precursor protein (<span class="match term1">APP</span>) metabolism by promoting ubiquitination-dependent <span class="match term1">APP</span> degradation and inhibition of <span class="match term1">APP</span> endocytosis.
+H.sapiens	CCND2	FBXL2	MEDLINE	22323446	F-box protein <span class="match term0">FBXL2</span> targets cyclin D2 for ubiquitination and degradation to inhibit leukemic cell proliferation.
+H.sapiens	PIK3R2	FBXL2	MEDLINE	23604317	UbiNet 2.0
+H.sapiens	FOXM1	FBXL2	MEDLINE	31679690	We found that <span class="match term0">FBXL2</span> ubiquitinated <span class="match term1">FOXM1</span>, and the interaction with <span class="match term0">FBXL2</span> and ubiquitination of <span class="match term1">FOXM1</span> were reduced by TMG in NUGC-3 cells

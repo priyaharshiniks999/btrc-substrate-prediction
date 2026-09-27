@@ -1,0 +1,6 @@
+Species	SUBGENE	E3GENE	SOURCE	SOURCEID	SENTENCE
+H.sapiens	SNAI1	FBXO11	MEDLINE	32657545	The F-box protein <span class="match term0">FBXO11</span> restrains hepatocellular carcinoma stemness via promotion of ubiquitin-mediated degradation of <span class="match term1">Snail</span>
+H.sapiens	DTL	FBXO11	MEDLINE	23478441	UbiNet 2.0
+H.sapiens	BCL6	FBXO11	MEDLINE	22113614	Here we show that <span class="match term1">BCL6</span> is targeted for ubiquitylation and proteasomal degradation by a SKP1-CUL1-F-box protein (SCF) ubiquitin ligase complex that contains the orphan F-box protein <span class="match term0">FBXO11</span> (refs 5, 6)
+H.sapiens	TP53	FBXO11	UniProt	FBX11_HUMAN	SCF(<span class="match term0">FBXO11</span>) does not seem to direct ubiquitination of <span class="match term1">TP53</span>
+H.sapiens	PRDM1	FBXO11	MEDLINE	22199232	E3Net

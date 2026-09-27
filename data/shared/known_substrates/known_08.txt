@@ -1,0 +1,7 @@
+Species	SUBGENE	E3GENE	SOURCE	SOURCEID	SENTENCE
+H.sapiens	IREB2	FBXL5	MEDLINE	19762597	We found that an E3 ubiquitin ligase complex containing the <span class="match term0">FBXL5</span> protein targets <span class="match term1">IRP2</span> for proteasomal degradation
+H.sapiens	SNAI1	FBXL5	MEDLINE	24157836	Using a short hairpin RNA screening, we have identified <span class="match term0">FBXL5</span> as a novel <span class="match term1">Snail1</span> ubiquitin ligase
+H.sapiens	NABP2	FBXL5	MEDLINE	25249620	<span class="match term0">Fbxl5</span> interacts with and targets <span class="match term1">hSSB1</span> for ubiquitination and degradation, which could be prevented by ATM-mediated <span class="match term1">hSSB1</span> T117 phosphorylation
+H.sapiens	DCTN1	FBXL5	UniProt	FBXL5_HUMAN	Promotes ubiquitination and subsequent degradation of <span class="match term1">DCTN1</span>/p150-glued
+H.sapiens	SNCA	FBXL5	MEDLINE	31167929	Moreover, the SCF containing the F-box protein <span class="match term0">FBXL5</span> (SCFFBXL5) catalyzed <span class="match term1">alphaSyn</span> ubiquitination in reconstitution experiments in vitro using recombinant proteins and in cultured cells
+H.sapiens	ABL1	FBXL5	MEDLINE	24658274	UbiNet 2.0

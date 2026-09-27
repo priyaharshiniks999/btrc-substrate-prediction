@@ -1,0 +1,2 @@
+Species	SUBGENE	E3GENE	SOURCE	SOURCEID	SENTENCE
+H.sapiens	TP53	FBXO42	MEDLINE	19509332	We showed that <span class="match term0">JFK</span> promotes ubiquitination and degradation of <span class="match term1">p53</span>

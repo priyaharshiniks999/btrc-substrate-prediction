@@ -1,0 +1,14 @@
+Species	SUBGENE	E3GENE	SOURCE	SOURCEID	SENTENCE
+H.sapiens	KLF4	FBXO32	MEDLINE	28068319	Furthermore, we demonstrated that <span class="match term0">FBXO32</span> physically interacts with the N-terminus (1-60 aa) of <span class="match term1">KLF4</span> via its C-terminus (228-355 aa) and directly targets <span class="match term1">KLF4</span> for ubiquitination and degradation
+H.sapiens	CABIN1	FBXO32	MEDLINE	18235241	UbiNet 2.0
+H.sapiens	MYBPC3	FBXO32	MEDLINE	19850579	UbiNet 2.0
+H.sapiens	EIF3F	FBXO32	MEDLINE	22199232	E3Net
+H.sapiens	TNNI3	FBXO32	MEDLINE	22199232	E3Net
+H.sapiens	KCNMB1	FBXO32	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	MYOD1	FBXO32	MEDLINE	19319192	Here we present evidence that <span class="match term0">MAFbx</span> targets <span class="match term1">MyoD</span> for degradation in several models of skeletal muscle atrophy
+H.sapiens	FOXO1	FBXO32	MEDLINE	22199232	E3Net
+H.sapiens	MYOG	FBXO32	MEDLINE	22199232	E3Net
+H.sapiens	ATR	FBXO32	MEDLINE	29805624	Additionally, <span class="match term0">FBXO32</span> interacts with <span class="match term1">ATR</span> in PANC-1 cells and <span class="match term1">ATR</span> is a degradation substrate of E3 ubiquitin ligase <span class="match term0">FBXO32</span>
+H.sapiens	MYOT	FBXO32	MEDLINE	15100091	UbiNet 2.0
+H.sapiens	DUSP1	FBXO32	MEDLINE	19117950	UbiNet 2.0
+H.sapiens	MYC	FBXO32	MEDLINE	25944903	UbiNet 2.0

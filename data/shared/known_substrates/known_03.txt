@@ -1,0 +1,8 @@
+Species	SUBGENE	E3GENE	SOURCE	SOURCEID	SENTENCE
+H.sapiens	MDM2	FBXO31	MEDLINE	26124108	F-box protein <span class="match term0">FBXO31</span> directs degradation of <span class="match term1">MDM2</span> to facilitate p53-mediated growth arrest following genotoxic stress.
+H.sapiens	CDT1	FBXO31	MEDLINE	24828503	SCF-<span class="match term0">FBXO31</span> E3 ligase targets DNA replication factor <span class="match term1">Cdt1</span> for proteolysis in the G2 phase of cell cycle to prevent re-replication.
+H.sapiens	PARD6A	FBXO31	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	SNAI1	FBXO31	MEDLINE	29117943	Further evidence demonstrates that <span class="match term0">FBXO31</span> interacts with <span class="match term1">Snail1</span> and mediates the ubiquitin- and proteasome-dependent degradation of <span class="match term1">Snail1</span> in gastric cancer
+H.sapiens	MAP2K6	FBXO31	MEDLINE	24936062	F-box only protein 31 (<span class="match term0">FBXO31</span>) negatively regulates p38 mitogen-activated protein kinase (MAPK) signaling by mediating lysine 48-linked ubiquitination and degradation of mitogen-activated protein kinase kinase 6 (<span class="match term1">MKK6</span>)
+H.sapiens	CCND1	FBXO31	UniProt	FBX31_HUMAN	Following DNA damage it is ubiquitinated by some SCF (SKP1-cullin-F-box) protein ligase complex containing <span class="match term0">FBXO31</span>
+H.sapiens	CCND2	FBXO31	MEDLINE	21537837	UbiNet 2.0

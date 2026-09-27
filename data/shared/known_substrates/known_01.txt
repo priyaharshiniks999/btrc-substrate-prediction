@@ -1,0 +1,111 @@
+Species	SUBGENE	E3GENE	SOURCE	SOURCEID	SENTENCE
+H.sapiens	HNRNPD	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	PER1	BTRC	MEDLINE	15917222	Finally, RNA interference against <span class="match term0">beta-TRCP</span> greatly decreases Clock-dependent gene expression in tissue culture cells, indicating that <span class="match term0">beta-TRCP</span> controls endogenous <span class="match term1">Per1</span> activity and the circadian clock by directly targeting <span class="match term1">Per1</span> for degradation
+H.sapiens	BMI1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	TBC1D7	BTRC	MEDLINE	30143532	The sequence immediately upstream of Ser-124 aligned with a canonical <span class="match term0">beta-TrCP</span> degron, and we found that the E3 ubiquitin ligase beta-TrCP2 ubiquitinates <span class="match term1">TBC1D7</span> and decreases its stability
+H.sapiens	EPOR	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	PER2	BTRC	MEDLINE	17876059	Mathematical modeling conceptualizes the authors' findings and suggests that loss of sustained rhythmicity in cells with eliminated <span class="match term0">beta-TrCP</span>-mediated <span class="match term1">PER2</span> degradation is due to excessive nuclear repression, a prediction they verified experimentally
+H.sapiens	BST2	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	PTTG1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	GSK3B	BTRC	MEDLINE	24451375	Induction of Gsk3beta-<span class="match term0">beta-TrCP</span> interaction is required for late phase stabilization of beta-catenin in canonical Wnt signaling.
+H.sapiens	TIAM1	BTRC	MEDLINE	25124033	Degradation of <span class="match term1">Tiam1</span> by casein kinase 1 and the SCFbetaTrCP ubiquitin ligase controls the duration of mTOR-S6K signaling.
+H.sapiens	YAP1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	STAT1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	FZR1	BTRC	MEDLINE	23972993	UbiNet 2.0
+H.sapiens	TERF1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	ELAVL1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	PDCD4	BTRC	MEDLINE	17053147	UbiNet 2.0
+H.sapiens	XRCC1	BTRC	MEDLINE	31043584	E3 ligase <span class="match term0">beta-TrCP</span> catalyzed the poly-ubiquitination of <span class="match term1">XRCC1</span> to promote its proteasome-dependent degradation
+H.sapiens	NFKBIB	BTRC	UniProt	FBW1A_HUMAN	SCF(<span class="match term0">BTRC</span>) mediates the ubiquitination of NFKBIA, <span class="match term1">NFKBIB</span> and NFKBIE; the degradation frees the associated NFKB1 to translocate into the nucleus and to activate transcription
+H.sapiens	DEPTOR	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	CTTN	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	HRAS	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	CLSPN	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	GLI3	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	SPAAR	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	TWIST1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	MDM2	BTRC	MEDLINE	20708156	Here, we report that <span class="match term1">Mdm2</span> is rapidly degraded after DNA damage and that phosphorylation of <span class="match term1">Mdm2</span> by casein kinase I (CKI) at multiple sites triggers its interaction with, and subsequent ubiquitination and destruction, by SCF(<span class="match term0">beta-TRCP</span>)
+H.sapiens	CHUK	BTRC	MEDLINE	19109186	UbiNet 2.0
+H.sapiens	TP53	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	CDC25A	BTRC	MEDLINE	15845771	When analyzed by using Xenopus eggs, the binding of <span class="match term0">beta-TrCP</span> to the DDG motif is essential for the Chk1-induced ubiquitination and degradation of Xenopus <span class="match term1">Cdc25A</span> and also plays a role in the degradation of human <span class="match term1">Cdc25A</span>
+H.sapiens	IRAK1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	FGD1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	FBXW11	BTRC	MEDLINE	31406304	UbiNet 2.0
+H.sapiens	IL10RA	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	SNAI1	BTRC	MEDLINE	22199232	E3Net
+H.sapiens	CASP3	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	WWTR1	BTRC	MEDLINE	20858893	The hippo tumor pathway promotes <span class="match term1">TAZ</span> degradation by phosphorylating a phosphodegron and recruiting the SCF{beta}-TrCP E3 ligase.
+H.sapiens	ZNRF3	BTRC	MEDLINE	29497989	Furthermore, the Cullin 1-specific SCF complex containing <span class="match term0">beta-TRCP</span> has been identified to directly interact with and ubiquitinate <span class="match term1">ZNRF3</span> thereby regulating its protein stability
+H.sapiens	TFRC	BTRC	MEDLINE	34315867	We also found that beta-transducin repeat containing E3 ubiqutin protein ligase (<span class="match term0">betaTrCP</span>) was a genuine E3 for the ubiquitination of <span class="match term1">TFRC</span>, and TRIB2 was unable to decline labile iron level once upon <span class="match term0">betaTrCP</span> was knocked out
+H.sapiens	PHLPP1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	PTP4A3	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	DDIT4	BTRC	MEDLINE	19557001	Here, we show that <span class="match term1">REDD1</span> is subject to ubiquitin-mediated degradation mediated by the CUL4A-DDB1-ROC1-<span class="match term0">beta-TRCP</span> E3 ligase complex and through the activity of glycogen synthase kinase 3beta
+H.sapiens	CD4	BTRC	MEDLINE	14674748	Phosphorylation of Vpu at two sites, Ser52 and Ser56, on the motif DSGXXS is required for the interaction of Vpu with the ubiquitin ligase SCF-<span class="match term0">betaTrCP</span> which triggers <span class="match term1">CD4</span> degradation by the proteasome
+H.sapiens	BTG1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	RASSF1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	CTNNB1	BTRC	MEDLINE	19795382	We found that BMP-2 stimulates Lrp5 expression and inhibits the expression of <span class="match term0">beta-TrCP</span>, the F-box E3 ligase responsible for <span class="match term1">beta-catenin</span> degradation and subsequently increases <span class="match term1">beta-catenin</span> protein levels in osteoblasts
+H.sapiens	GBF1	BTRC	MEDLINE	29898406	<span class="match term1">GBF1</span> interaction with <span class="match term0">betaTrCP</span> recruits <span class="match term1">GBF1</span> to the SCFbetaTrCP ubiquitin ligase complex, triggering its degradation
+H.sapiens	UHRF1	BTRC	MEDLINE	23297342	UbiNet 2.0
+H.sapiens	FGD3	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	COMMD1	BTRC	MEDLINE	20068069	UbiNet 2.0
+H.sapiens	DLG5	BTRC	MEDLINE	12902344	UbiNet 2.0
+H.sapiens	SMAD3	BTRC	UniProt	FBW1A_HUMAN	SCF(<span class="match term0">BTRC</span>) mediates the ubiquitination of phosphorylated NFKB1/nuclear factor NF-kappa-B p105 subunit, ATF4, <span class="match term1">SMAD3</span>, SMAD4, CDC25A, DLG1, FBXO5 and probably NFKB2
+H.sapiens	HSF1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	WEE1	BTRC	MEDLINE	18560763	At the onset of mitosis, <span class="match term1">Wee1</span> is ubiquitinated by the E3 ubiquitin ligase SCF(<span class="match term0">beta-TrCP</span>) and subsequently degraded by the proteasome machinery
+H.sapiens	FBXO5	BTRC	MEDLINE	17676996	We further addressed this Vpu inhibitory function with respect to the degradation of <span class="match term1">Emi1</span> and Cdc25A, two <span class="match term0">betaTrCP</span> substrates involved in cell-cycle progression
+H.sapiens	TRAF3IP2	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	ATF4	BTRC	UniProt	FBW1A_HUMAN	SCF(<span class="match term0">BTRC</span>) directs ubiquitination of NFKBIB, NFKBIE, <span class="match term1">ATF4</span>, SMAD3, SMAD4, CDC25A, FBXO5 and probably NFKB2
+H.sapiens	FN1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	TAZ	BTRC	MEDLINE	20858893	20858893
+H.sapiens	CREBZF	BTRC	MEDLINE	11238952	ATF4 represents a novel substrate for the SCF(<span class="match term0">betaTrCP</span>) complex, which is the first mammalian E3 ubiquitin ligase identified so far for the control of the degradation of a bZIP transcription factor
+H.sapiens	RCAN1	BTRC	MEDLINE	18575781	In vitro ubiquitination assay showed that SCFbeta-TrCP but not SCFFBW4 increased ubiquitination of <span class="match term1">RCAN1</span>, dependent on H2O2 stimulation
+H.sapiens	KDR	BTRC	MEDLINE	22711876	UbiNet 2.0
+H.sapiens	NFKBIE	BTRC	UniProt	FBW1A_HUMAN	SCF(<span class="match term0">BTRC</span>) directs ubiquitination of NFKBIB, <span class="match term1">NFKBIE</span>, ATF4, SMAD3, SMAD4, CDC25A, FBXO5 and probably NFKB2
+H.sapiens	NRF1	BTRC	MEDLINE	21911472	UbiNet 2.0
+H.sapiens	NFE2L1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	BHLHE40	BTRC	MEDLINE	25202122	UbiNet 2.0
+H.sapiens	FOXN2	BTRC	MEDLINE	29396548	we find that <span class="match term1">FOXN2</span> binds to and is ubiquitinated by <span class="match term0">beta-Trcp</span> ubiquitin ligase and RSK2 kinase for degradation.
+H.sapiens	METAP2	BTRC	MEDLINE	11438690	UbiNet 2.0
+H.sapiens	CDK1	BTRC	MEDLINE	25149538	We show that <span class="match term1">CDK1</span> is ubiquitinated by the E3 ubiquitin ligase SCFbetaTrCP and degraded by the lysosome
+H.sapiens	PRLR	BTRC	MEDLINE	15082796	Knockdown of <span class="match term0">beta-TrCP</span> expression inhibits the ubiquitination and degradation of <span class="match term1">PRLR</span> and promotes PRL-dependent phosphorylation of Stat5 as well as Stat5-dependent transcription in cells
+H.sapiens	BTG2	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	LPCAT1	BTRC	MEDLINE	21068446	UbiNet 2.0
+H.sapiens	CPEB1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	MYC	BTRC	MEDLINE	20852628	Whereas SCFFbw7 with the Cdc34 ubiquitin-conjugating enzyme specifically requires lysine 48 (K48) of ubiquitin, SCFbeta-TrCP uses the UbcH5 ubiquitin-conjugating enzyme to form heterotypic polyubiquitin chains on <span class="match term1">Myc</span>
+H.sapiens	NFKB1	BTRC	UniProt	FBW1A_HUMAN	SCF(<span class="match term0">BTRC</span>) mediates the ubiquitination of NFKBIA, NFKBIB and NFKBIE; the degradation frees the associated <span class="match term1">NFKB1</span> to translocate into the nucleus and to activate transcription
+H.sapiens	CCNE1	BTRC	MEDLINE	18851830	UbiNet 2.0
+H.sapiens	TFAP4	BTRC	MEDLINE	24500709	We have found that, during the G2 phase of the cell division cycle, <span class="match term1">TFAP4</span> is targeted for proteasome-dependent degradation by the SCF(<span class="match term0">betaTrCP</span>) ubiquitin ligase
+H.sapiens	GHR	BTRC	MEDLINE	23607312	In the present study, we show that <span class="match term0">betaTrCP</span> interacts directly via its WD40 domain with the UbE (ubiquitin-dependent endocytosis) motif in <span class="match term1">GHR</span>, promoting <span class="match term1">GHR</span> ubiquitination in vitro.
+H.sapiens	REST	BTRC	MEDLINE	14523018	Our data suggest that LMP1-95-8 is a pseudo-substrate of SCFHOS/<span class="match term0">betaTrCP</span> E3 ubiquitin ligase and that interaction between LMP1 and HOS restricts the extent of LMP1-induced NF-kappaB signaling
+H.sapiens	BCL10	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	SMAD4	BTRC	UniProt	FBW1A_HUMAN	SCF(<span class="match term0">BTRC</span>) mediates the ubiquitination of phosphorylated NFKB1/nuclear factor NF-kappa-B p105 subunit, ATF4, SMAD3, <span class="match term1">SMAD4</span>, CDC25A, DLG1, FBXO5 and probably NFKB2
+H.sapiens	BORA	BTRC	MEDLINE	19390576	In mitosis, <span class="match term1">Bora</span> is degraded in a manner dependent on Plk1 kinase activity and the E3 ubiquitin ligase SCF-<span class="match term0">betaTrCP</span>
+H.sapiens	USP47	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	BCL2L11	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	LPIN2	BTRC	MEDLINE	32008742	UbiNet 2.0
+H.sapiens	PFKFB3	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	USP37	BTRC	MEDLINE	23027877	Skp1-Cul1-F-box ubiquitin ligase (SCF(<span class="match term0">betaTrCP</span>))-mediated destruction of the ubiquitin-specific protease <span class="match term1">USP37</span> during G2-phase promotes mitotic entry
+H.sapiens	CDC25B	BTRC	MEDLINE	21807946	UbiNet 2.0
+H.sapiens	SP1	BTRC	MEDLINE	19372209	UbiNet 2.0
+H.sapiens	CCND1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	PKD2	BTRC	MEDLINE	17636028	Replacements of serines in a phosphodegron motif in TAZ prevent <span class="match term0">beta-Trcp</span> binding and <span class="match term1">PC2</span> degradation
+H.sapiens	IFNAR1	BTRC	MEDLINE	16551269	UbiNet 2.0
+H.sapiens	FOXO3	BTRC	MEDLINE	20625400	UbiNet 2.0
+H.sapiens	GLI2	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	ELF3	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	IFNGR1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	NFE2L2	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	PSMD4	BTRC	MEDLINE	19240029	UbiNet 2.0
+H.sapiens	NFKBIA	BTRC	MEDLINE	19180189	The data presented show that phosphorylated <span class="match term1">IkappaBalpha</span> is stable in rotavirus-infected cells because infection induces proteasome-dependent degradation of <span class="match term0">beta-TrCP</span>
+H.sapiens	DAND5	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	PLK4	BTRC	MEDLINE	22199232	E3Net
+H.sapiens	MIS18A	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	FANCM	BTRC	MEDLINE	19270156	<span class="match term0">beta-TRCP</span> and Plk1 are the key regulators of <span class="match term1">FANCM</span> degradation
+H.sapiens	CDH1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	CEP68	BTRC	MEDLINE	22199232	E3Net
+H.sapiens	MCL1	BTRC	MEDLINE	24658274	UbiNet 2.0
+H.sapiens	NFKB2	BTRC	UniProt	FBW1A_HUMAN	SCF(<span class="match term0">BTRC</span>) mediates the ubiquitination of phosphorylated NFKB1/nuclear factor NF-kappa-B p105 subunit, ATF4, SMAD3, SMAD4, CDC25A, DLG1, FBXO5 and probably <span class="match term1">NFKB2</span>
+H.sapiens	DLG1	BTRC	MEDLINE	12902344	Finally, we show that <span class="match term0">beta-TrCP</span> selectively induces the degradation of the membrane-cytoplasmic pool, without affecting the nuclear pool of <span class="match term1">hDlg</span>
+H.sapiens	EEF2K	BTRC	MEDLINE	22669845	UbiNet 2.0
+H.sapiens	TRIB2	BTRC	MEDLINE	24211582	In the present study, we reveal that the stability and ubiquitination of <span class="match term1">TRIB2</span> can also be controlled by ubiquitin E3 ligase SCF(<span class="match term0">beta-TRCP</span>)
+H.sapiens	MXI1	BTRC	MEDLINE	29507620	Furthermore, we demonstrated that <span class="match term1">Mxi1</span> is phosphorylated at S160 site by the protein kinase S6K1 and subsequently degraded via the ubiquitin ligase <span class="match term0">beta-Trcp</span>
