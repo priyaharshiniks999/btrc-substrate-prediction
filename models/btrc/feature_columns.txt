@@ -1,0 +1,4 @@
+has_dsgxxs_motif
+dsgxxs_count
+max_disorder_score
+mean_plddt
